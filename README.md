@@ -20,7 +20,7 @@
 <br>
 
 ## 👨‍💻 Autor  
-[**Marcos Paulo Barszcz Alves**](https://github.com/MrBarszcz) 
+[**Byanca Prado Rosa Hamilko Chaves**](https://github.com/Byonica) 
 
 <br>
 
